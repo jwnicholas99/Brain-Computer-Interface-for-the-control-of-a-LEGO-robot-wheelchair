@@ -1,0 +1,46 @@
+c:\users\nicholas\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nicholas\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\nicholas\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nicholas\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nicholas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Nicholas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Nicholas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\LibUsbDotNet.dll
+C:\Users\Nicholas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MonoBrick.dll
+C:\Users\Nicholas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MonoBrick.xml
+C:\Users\Nicholas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Nicholas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Nicholas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.openconnection.resources
+C:\Users\nsplab\Documents\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\nsplab\Documents\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\nsplab\Documents\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\nsplab\Documents\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\nsplab\Documents\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\LibUsbDotNet.dll
+C:\Users\nsplab\Documents\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MonoBrick.dll
+C:\Users\nsplab\Documents\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MonoBrick.xml
+C:\Users\nsplab\Documents\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\nsplab\Documents\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.openconnection.resources
+C:\Users\nsplab\Documents\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\nsplab\Documents\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Nicholas\Desktop\Windows application 3 latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Nicholas\Desktop\Windows application 3 latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Nicholas\Desktop\Windows application 3 latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Nicholas\Desktop\Windows application 3 latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Nicholas\Desktop\Windows application 3 latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\LibUsbDotNet.dll
+C:\Users\Nicholas\Desktop\Windows application 3 latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MonoBrick.dll
+C:\Users\Nicholas\Desktop\Windows application 3 latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MonoBrick.xml
+C:\Users\Nicholas\Desktop\Windows application 3 latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicholas\Desktop\Windows application 3 latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.openconnection.resources
+C:\Users\Nicholas\Desktop\Windows application 3 latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Nicholas\Desktop\Windows application 3 latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nicholas\Desktop\Windows application 3 latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\LegoControllerHCI.exe
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\LegoControllerHCI.pdb
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\LibUsbDotNet.dll
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MonoBrick.dll
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MonoBrick.xml
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.Properties.Resources.resources
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.exe
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.pdb
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.openconnection.resources

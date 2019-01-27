@@ -1,0 +1,52 @@
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\LegoControllerHCI.exe
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\LegoControllerHCI.pdb
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\LibUsbDotNet.dll
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MonoBrick.dll
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MonoBrick.xml
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.openconnection.resources
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.Properties.Resources.resources
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.csproj.GenerateResource.Cache
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.exe
+C:\Users\I2R\Desktop\HCI LegoController\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.pdb
+C:\Users\nsplab\Desktop\LegoControllerHCI\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.exe
+C:\Users\nsplab\Desktop\LegoControllerHCI\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.pdb
+C:\Users\nsplab\Desktop\LegoControllerHCI\WindowsFormsApplication3\bin\Debug\LegoControllerHCI.exe
+C:\Users\nsplab\Desktop\LegoControllerHCI\WindowsFormsApplication3\bin\Debug\LegoControllerHCI.pdb
+C:\Users\nsplab\Desktop\LegoControllerHCI\WindowsFormsApplication3\bin\Debug\LibUsbDotNet.dll
+C:\Users\nsplab\Desktop\LegoControllerHCI\WindowsFormsApplication3\bin\Debug\MonoBrick.dll
+C:\Users\nsplab\Desktop\LegoControllerHCI\WindowsFormsApplication3\bin\Debug\MonoBrick.xml
+C:\Users\nsplab\Desktop\LegoControllerHCI\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.csprojResolveAssemblyReference.cache
+C:\Users\nsplab\Desktop\LegoControllerHCI\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.openconnection.resources
+C:\Users\nsplab\Desktop\LegoControllerHCI\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.Properties.Resources.resources
+C:\Users\nsplab\Desktop\LegoControllerHCI\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.csproj.GenerateResource.Cache
+C:\Users\I2R\Desktop\LegoControllerHCIV2\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.exe
+C:\Users\I2R\Desktop\LegoControllerHCIV2\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.pdb
+C:\Users\I2R\Desktop\Dropbox\Shared folders\SMP2014 Reference Papers\LegoControllerHCI_V2\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.exe
+C:\Users\I2R\Desktop\Dropbox\Shared folders\SMP2014 Reference Papers\LegoControllerHCI_V2\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.pdb
+C:\Users\Nicholas\Documents\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.exe
+C:\Users\Nicholas\Documents\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.pdb
+C:\Users\Nicholas\Documents\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\bin\Debug\LegoControllerHCI.exe
+C:\Users\Nicholas\Documents\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\bin\Debug\LegoControllerHCI.pdb
+C:\Users\Nicholas\Documents\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\bin\Debug\LibUsbDotNet.dll
+C:\Users\Nicholas\Documents\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\bin\Debug\MonoBrick.dll
+C:\Users\Nicholas\Documents\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\bin\Debug\MonoBrick.xml
+C:\Users\Nicholas\Documents\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicholas\Documents\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.openconnection.resources
+C:\Users\Nicholas\Documents\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.Properties.Resources.resources
+C:\Users\Nicholas\Documents\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nicholas\Documents\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\bin\Debug\LegoControllerHCI.exe
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\bin\Debug\LegoControllerHCI.pdb
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\bin\Debug\LibUsbDotNet.dll
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\bin\Debug\MonoBrick.dll
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\bin\Debug\MonoBrick.xml
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.csprojAssemblyReference.cache
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.openconnection.resources
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.Properties.Resources.resources
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.csproj.GenerateResource.cache
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.csproj.CoreCompileInputs.cache
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.csproj.CopyComplete
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.exe
+D:\Users\Nicholas Lim\Documents\Science\Science Mentorship Program\Brain Computer Interfaces\Software\LegoController\WindowsFormsApplication3\obj\x86\Debug\LegoControllerHCI.pdb
